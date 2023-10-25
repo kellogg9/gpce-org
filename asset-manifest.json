@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/gpce-org/static/css/main.3c7f0a6d.css",
-    "main.js": "/gpce-org/static/js/main.74f0bf4b.js",
+    "main.js": "/gpce-org/static/js/main.9fa80f2f.js",
     "static/js/787.9a0cb8bf.chunk.js": "/gpce-org/static/js/787.9a0cb8bf.chunk.js",
+    "static/media/Nicholas Kellogg.png": "/gpce-org/static/media/Nicholas Kellogg.98676a9bf875bc380f35.png",
     "static/media/covidthing.jpg": "/gpce-org/static/media/covidthing.9c0c15b2d54bf32dc6e8.jpg",
     "index.html": "/gpce-org/index.html",
     "main.3c7f0a6d.css.map": "/gpce-org/static/css/main.3c7f0a6d.css.map",
-    "main.74f0bf4b.js.map": "/gpce-org/static/js/main.74f0bf4b.js.map",
+    "main.9fa80f2f.js.map": "/gpce-org/static/js/main.9fa80f2f.js.map",
     "787.9a0cb8bf.chunk.js.map": "/gpce-org/static/js/787.9a0cb8bf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c7f0a6d.css",
-    "static/js/main.74f0bf4b.js"
+    "static/js/main.9fa80f2f.js"
   ]
 }
