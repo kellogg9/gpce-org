@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/gpce-org/static/css/main.c079ceee.css",
-    "main.js": "/gpce-org/static/js/main.98c52457.js",
+    "main.css": "/gpce-org/static/css/main.5a9fb83f.css",
+    "main.js": "/gpce-org/static/js/main.8ee42e45.js",
     "static/js/787.9a0cb8bf.chunk.js": "/gpce-org/static/js/787.9a0cb8bf.chunk.js",
     "static/media/IMG_9715 - Ian Liu.PNG": "/gpce-org/static/media/IMG_9715 - Ian Liu.94e488d472f5659c17fa.PNG",
     "static/media/Nicholas Kellogg.png": "/gpce-org/static/media/Nicholas Kellogg.dbc445f41ae569763dc4.png",
@@ -22,12 +22,12 @@
     "static/media/IMG_0343 - Kingsley Kim.JPG": "/gpce-org/static/media/IMG_0343 - Kingsley Kim.939d77ef8777732ac2e8.JPG",
     "static/media/1594479822284 - George Boulos.jpg": "/gpce-org/static/media/1594479822284 - George Boulos.36dd0b50afbb18995b1d.jpg",
     "index.html": "/gpce-org/index.html",
-    "main.c079ceee.css.map": "/gpce-org/static/css/main.c079ceee.css.map",
-    "main.98c52457.js.map": "/gpce-org/static/js/main.98c52457.js.map",
+    "main.5a9fb83f.css.map": "/gpce-org/static/css/main.5a9fb83f.css.map",
+    "main.8ee42e45.js.map": "/gpce-org/static/js/main.8ee42e45.js.map",
     "787.9a0cb8bf.chunk.js.map": "/gpce-org/static/js/787.9a0cb8bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c079ceee.css",
-    "static/js/main.98c52457.js"
+    "static/css/main.5a9fb83f.css",
+    "static/js/main.8ee42e45.js"
   ]
 }
