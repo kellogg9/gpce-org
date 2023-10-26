@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/gpce-org/static/css/main.4d32c55a.css",
-    "main.js": "/gpce-org/static/js/main.2b32fbcd.js",
+    "main.css": "/gpce-org/static/css/main.b4e3e3c4.css",
+    "main.js": "/gpce-org/static/js/main.5ffa773d.js",
     "static/js/787.9a0cb8bf.chunk.js": "/gpce-org/static/js/787.9a0cb8bf.chunk.js",
     "static/media/IMG_9715 - Ian Liu.PNG": "/gpce-org/static/media/IMG_9715 - Ian Liu.94e488d472f5659c17fa.PNG",
+    "static/media/Nicholas Kellogg.png": "/gpce-org/static/media/Nicholas Kellogg.dbc445f41ae569763dc4.png",
     "static/media/single - Md Khairul Islam.JPG": "/gpce-org/static/media/single - Md Khairul Islam.a8331b5e1fa61f0a1e84.JPG",
     "static/media/JFox2 - Judy Fox.png": "/gpce-org/static/media/JFox2 - Judy Fox.2951e1e066cfcceb656c.png",
     "static/media/IMG-1170 - Luke Benham.jpg": "/gpce-org/static/media/IMG-1170 - Luke Benham.5e9f6b5bbdd984e90956.jpg",
-    "static/media/Nicholas Kellogg.png": "/gpce-org/static/media/Nicholas Kellogg.98676a9bf875bc380f35.png",
     "static/media/headshot - Andrej Erkelens.jpeg": "/gpce-org/static/media/headshot - Andrej Erkelens.5086922870d63f2d5ffb.jpeg",
     "static/media/IMG_8110 - Tracy Hua.jpg": "/gpce-org/static/media/IMG_8110 - Tracy Hua.5ea1a3a0bf4e90181728.jpg",
     "static/media/wzg6 - Zhengguang Wang.png": "/gpce-org/static/media/wzg6 - Zhengguang Wang.11e98263a7625bbf1c3e.png",
@@ -22,12 +22,12 @@
     "static/media/IMG_0343 - Kingsley Kim.JPG": "/gpce-org/static/media/IMG_0343 - Kingsley Kim.939d77ef8777732ac2e8.JPG",
     "static/media/1594479822284 - George Boulos.jpg": "/gpce-org/static/media/1594479822284 - George Boulos.36dd0b50afbb18995b1d.jpg",
     "index.html": "/gpce-org/index.html",
-    "main.4d32c55a.css.map": "/gpce-org/static/css/main.4d32c55a.css.map",
-    "main.2b32fbcd.js.map": "/gpce-org/static/js/main.2b32fbcd.js.map",
+    "main.b4e3e3c4.css.map": "/gpce-org/static/css/main.b4e3e3c4.css.map",
+    "main.5ffa773d.js.map": "/gpce-org/static/js/main.5ffa773d.js.map",
     "787.9a0cb8bf.chunk.js.map": "/gpce-org/static/js/787.9a0cb8bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d32c55a.css",
-    "static/js/main.2b32fbcd.js"
+    "static/css/main.b4e3e3c4.css",
+    "static/js/main.5ffa773d.js"
   ]
 }
